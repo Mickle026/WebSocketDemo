@@ -220,6 +220,11 @@ digraph G {
 
 ---
 
+## 🧑‍💻 Developers
+**Author:** Mike Williams  
+
+---
+
 ## ✅ Conclusion
 This minimal plugin proves:
 - Emby plugins can register their own WebSocket channels.  
